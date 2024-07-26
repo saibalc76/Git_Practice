@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [GCP Associate Cloud Engineer Google Certification -150 Demos](https://links.stacksimplify.com/gcp-associate-cloud-engineer-google-certification)
 
 [![Image](gcp-ace-2.png "GCP Associate Cloud Engineer Google Certification -150 Demos")](https://links.stacksimplify.com/gcp-associate-cloud-engineer-google-certification)
@@ -244,3 +245,19 @@
 
 # [Helm Masterclass: 50 Practical Demos for Kubernetes DevOps](https://links.stacksimplify.com/helm-masterclass-kubernetes-devops)
 [![Image](images/helm-highest-rated.png "Helm Masterclass: 50 Practical Demos for Kubernetes DevOps")](https://links.stacksimplify.com/helm-masterclass-kubernetes-devops)
+=======
+# This is a cool project
+
+My project is very cool
+
+## Setup
+
+You can start the project with the start command 
+
+
+## Building steps
+
+1. Install nodejs: `npm i -g node`
+2. Install npx: `npm i npx`
+3. Install dependencies: `npm install`
+>>>>>>> 86aa2e1182efe068bd5676241ec392a14f7ac407
